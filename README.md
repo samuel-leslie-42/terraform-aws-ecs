@@ -8,6 +8,7 @@ Terraform module which creates ECS (Elastic Container Service) resources on AWS.
 - Fargate capacity providers
 - EC2 AutoScaling Group capacity providers
 
+
 ## Usage
 
 ### Fargate Capacity Providers
